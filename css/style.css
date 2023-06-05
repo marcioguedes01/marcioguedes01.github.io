@@ -599,7 +599,15 @@
     color: #ffffff;
 }
 
+.link-white{
+    color: #ffffff;
+}
+
 .link-dark:hover {
+    color: gold;
+}
+
+.link-white:hover {
     color: gold;
 }
 
